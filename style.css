@@ -3,6 +3,9 @@
   margin: 0;
   padding: 0;
 }
+#main-img{
+  overflow-x: hidden;
+}
 p{
   color: #fff;
   font-size: 2vw;
