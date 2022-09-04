@@ -129,7 +129,7 @@ h5{
     background: rgba(45,45,45, 0.8);
   }
   body{
-    overflow-x: hidden !important;
+    overflow-x: hidden;
   }
   p{
     color: #fff;
