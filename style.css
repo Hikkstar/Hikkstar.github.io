@@ -128,8 +128,9 @@ h5{
   .header{
     background: rgba(45,45,45, 0.8);
   }
-  
-
+  body{
+    overflow-x: hidden;
+  }
   p{
     color: #fff;
     font-size: 4vw;
