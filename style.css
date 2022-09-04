@@ -123,13 +123,13 @@ h5{
 @media screen and (max-width: 768px) {
   #gnav,
   .caption{
-    display: none;
+    display: none !important;
   }
   .header{
     background: rgba(45,45,45, 0.8);
   }
   body{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
   }
   p{
     color: #fff;
