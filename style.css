@@ -98,7 +98,7 @@ footer{
   height: 100vh;
   transform: translateX(100%); 
   /* background-color: rgb(97, 85, 85);  */
-  background: linear-gradient(to right,#de4141,#e8ac51,#f2e55c,#39a869,#4784bf,#5d5099,#a55b9a);
+  background: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
   transition: ease .4s; 
 }
 .nav-items {
