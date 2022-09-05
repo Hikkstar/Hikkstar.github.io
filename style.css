@@ -5,6 +5,7 @@
 }
 #main-img{
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 p{
   color: #fff;
