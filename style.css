@@ -171,9 +171,12 @@ footer{
   }
   .text{
   display: grid;
-  place-items: center;
-  height: 60px;
+/*   place-items: center; */
+  justify-items: center;
+  align-items: center;
   color: #fff;
+  font-weight: bold;
+  z-index: 1;
   }
   .openbtn{
     
