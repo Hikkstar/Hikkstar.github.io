@@ -48,7 +48,7 @@ footer{
     padding: 0 10px;
     text-align: left;
     width: auto;
-    position: relative;
+/*     position: relative; */
 }
 .half{
   width: 50%;
@@ -171,9 +171,9 @@ footer{
   }
   .text{
   display: grid;
-/*   place-items: center; */
-  justify-items: center;
-  align-items: center;
+  place-items: center;
+  height: 100vh;
+  height: 150px;
   color: #fff;
   font-weight: bold;
   z-index: 1;
