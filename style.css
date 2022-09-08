@@ -172,7 +172,8 @@ footer{
   .text{
   display: grid;
   place-items: center;
-  height: 100vh;
+  height: 60px;
+  color: #fff;
   }
   .openbtn{
     
