@@ -170,11 +170,15 @@ footer{
   top: 40px;
   }
   .text{
-  display: grid;
+/*   display: grid;
   place-items: center;
   height: 100vh;
-  height: 150px;
+  height: 150px; */
+  text-align: center;
+	line-height: 100vh;
   color: #fff;
+  font-size: 2vw;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: bold;
   z-index: 1;
   }
