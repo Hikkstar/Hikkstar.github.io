@@ -170,9 +170,9 @@ footer{
   top: 40px;
   }
   .text{
-  text-align: center;
-  positon: relative;
-  top: 50%;
+  display: grid;
+  place-items: center;
+  height: 100vh;
   }
   .openbtn{
     
