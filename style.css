@@ -175,9 +175,9 @@ footer{
   height: 100vh;
   height: 150px; */
   text-align: center;
-	line-height: 100vh;
+  line-height: 70vh;
   color: #fff;
-  font-size: 2vw;
+  font-size: 4vw;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: bold;
   z-index: 1;
