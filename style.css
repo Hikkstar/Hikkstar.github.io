@@ -182,7 +182,7 @@ footer{
     overflow-x: hidden !important;
   } */
   .copyright{
-    font-size: 1vw;
+    font-size: 3vw;
   }
   p{
     color: #fff;
@@ -202,7 +202,7 @@ footer{
     /* text-align: center;
     line-height: 100vh; */
     color: #fff;
-    font-size: 10vw;
+    font-size: 7vw;
     font-weight: bold;
     z-index: 1;
   }
