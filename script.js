@@ -15,7 +15,7 @@ $('#page-top').click(function () {
 particlesJS("particles-js", {
 	"particles":{
 		"number":{
-			"value":500,
+			"value":500,//この数値を変更すると星の数が増減できる
 			"density":{
 				"enable":true,
 				"value_area":800
@@ -25,19 +25,19 @@ particlesJS("particles-js", {
 			"value":"#ffffff"
 		},
 		"shape":{
-			"type":"circle",
+			"type":"circle",//形状はcircleを指定
 			"stroke":{
 				"width":0
 			},
 			},
 		"opacity":{
-			"value":1,
-			"random":true,
+			"value":1,//シェイプの透明度
+			"random":true,//シェイプの透明度をランダムにする
 			"anim":{
-				"enable":true,
-				"speed":3,
-				"opacity_min":0,
-				"sync":false
+				"enable":true,//シェイプの透明度をアニメーションさせる
+				"speed":3,//シェイプの透明度をアニメーションさせる
+				"opacity_min":0,//透明度の最小値０
+				"sync":false//全てを同時にアニメーションさせない
 			}
 		},
 		"size":{
@@ -55,10 +55,10 @@ particlesJS("particles-js", {
 		},
 		"move":{
 			"enable":true,
-			"speed":120,
-		"direction":"none",
-		"random":true,
-		"straight":true,
+			"speed":120,//この数値を小さくするとゆっくりな動きになる
+		"direction":"none",//方向指定なし
+		"random":true,//動きはランダムに
+		"straight":true,//動きをとどめる
 			"out_mode":"out",
 			"bounce":false,
 			"attract":{
