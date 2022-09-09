@@ -197,12 +197,12 @@ footer{
   .text{
     display: grid;
     place-items: center;
-    height: 70vh;
+    height: 60vh;
     /* height: 150px; */
     /* text-align: center;
     line-height: 100vh; */
     color: #fff;
-    font-size: 6vw;
+    font-size: 10vw;
     font-weight: bold;
     z-index: 1;
   }
