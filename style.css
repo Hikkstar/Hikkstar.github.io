@@ -68,6 +68,8 @@ footer{
 }
 #gnav{
   float: right;
+  position: relative;
+  top: 10px;
 }
 #gnav li{
   float: left;
