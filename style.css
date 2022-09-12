@@ -61,6 +61,11 @@ footer{
   position: relative;
   top: 30px;
 }
+.logo{
+  float: left;
+  position: relative;
+  bottom: 5px;
+}
 #gnav{
   float: right;
 }
@@ -193,6 +198,12 @@ footer{
   .position{
     position: relative;
     top: 40px;
+  }
+  .logo{
+    float: left;
+    position: relative;
+    left: 2px;
+    bottom: 13px;
   }
   .text{
     display: grid;
