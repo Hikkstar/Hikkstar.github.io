@@ -207,6 +207,11 @@ footer{
     left: 2px;
     bottom: 13px;
   }
+ .logo_name{
+    white-space: nowrap;
+    position: relative;
+    top: 5px;
+  }
   .text{
     display: grid;
     place-items: center;
