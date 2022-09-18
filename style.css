@@ -111,6 +111,7 @@ footer{
   vertical-align: middle;
 } */
 
+/*ハンバーガーメニュー部分*/
 .header__nav {
   display: flex;
   justify-content: center;
@@ -129,6 +130,53 @@ footer{
   transition: ease .4s; 
   z-index: 1000;
 }
+
+/* ハンバーガーメニュー_フォーム部分 */
+form {
+  display: flex;
+  justify-content: center;
+  max-width: 440px;
+  width: 80%;
+  height: 40px;
+  padding: 0 10px 0;
+  position: relative;
+  top: 120px;
+  /* left: 20px; */
+}
+form input {
+  border: none;
+  padding: 0.9em 1em;
+  border-radius: 10px;
+  font-size: 14px;
+  width: 100%;
+}
+form button {
+  position: absolute;
+  top: 50%;
+  right: 55px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+form button img{
+  position: relative;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+
+/*ハンバーガーメニュー_ナビゲーション部分*/
 .nav-items {
   padding: 0;
   position: absolute;
@@ -179,51 +227,6 @@ footer{
   background: #fff;
   height: 500px;
 } */
-
-/* フォーム部分 */
-form {
-  display: flex;
-  justify-content: center;
-  max-width: 440px;
-  width: 80%;
-  height: 40px;
-  padding: 0 10px 0;
-  position: relative;
-  top: 120px;
-  /* left: 20px; */
-}
-form input {
-  border: none;
-  padding: 0.9em 1em;
-  border-radius: 10px;
-  font-size: 14px;
-  width: 100%;
-}
-form button {
-  position: absolute;
-  top: 50%;
-  right: 55px;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-button {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-  outline: none;
-  padding: 0;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-}
-form button img{
-  position: relative;
-  left: 20px;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
-}
 
 @media screen and (max-width: 768px) {
   #gnav,
