@@ -5,7 +5,7 @@ ham.on('click', function () {
   nav.toggleClass('active'); 
 });
 
-$('#page-top').click(function () {
+$('.page-top').click(function () {
   $('body,html').animate({
       scrollTop: 0
   }, 500);
