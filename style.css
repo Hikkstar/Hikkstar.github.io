@@ -224,10 +224,10 @@ form button img{
   font-size: 0.6vw;
 }
 /* 別のコンテンツを追加 */
-.container{
+/* .container{
   background: #fff;
   height: 500px;
-}
+} */
 
 @media screen and (max-width: 768px) {
   #gnav,
