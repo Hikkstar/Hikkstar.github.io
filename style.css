@@ -34,7 +34,7 @@ footer{
   height: 70px;
   /* background: linear-gradient(to right,#590590,#ffffff); */
   background: rgba(45,45,45, 0.5);
-  position: sticky;
+  position: absolute;
   bottom: 0;
 /*   z-index: -1; */
 }
