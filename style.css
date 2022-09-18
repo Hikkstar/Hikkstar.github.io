@@ -242,7 +242,7 @@ form button img{
     overflow-x: hidden !important;
   } */
   .copyright{
-    font-size: 1vw;
+    font-size: 3vw;
   }
   p{
     color: #fff;
@@ -280,7 +280,7 @@ form button img{
   .text{
     display: grid;
     place-items: center;
-    height: 70vh;
+    height: 50vh;
     /* height: 150px; */
     /* text-align: center;
     line-height: 100vh; */
