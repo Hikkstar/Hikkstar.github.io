@@ -5,7 +5,7 @@
 }
 html,
 body{
-  height: 100vh;
+  height: 100%;
   overflow-x: hidden;
 }
 /* #main-img{
