@@ -114,7 +114,7 @@ footer{
 
 /*ハンバーガーメニュー部分*/
 .header__nav {
-  display: fixed;
+  display: block;
   justify-content: center;
   position: absolute;
   right: 0;
