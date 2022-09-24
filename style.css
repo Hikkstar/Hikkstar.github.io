@@ -258,13 +258,13 @@ form button img{
     float: left;
     position: relative;
     left: 5px;
-    bottom: 22px;
+    bottom: 20px;
     z-index: 9999;
   }
   .logo_name{
     white-space: nowrap;
     position: relative;
-    bottom: 5px;
+    bottom: 2px;
     left: 5px;
     z-index: 9999;
   }
