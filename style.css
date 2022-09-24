@@ -237,7 +237,7 @@ form button img{
   }
   .header{
     background: rgba(45,45,45, 0.3);
-    height: 70px;
+    height: 50px;
   }
   /* body{
     overflow-x: hidden !important;
@@ -253,20 +253,19 @@ form button img{
   /* ヘッダー部分 */
   .position{
     position: relative;
-    top: 40px;
   }
   .logo{
     float: left;
     position: relative;
     left: 5px;
-    bottom: 13px;
+/*     bottom: 13px; */
     z-index: 9999;
   }
   .logo_name{
     white-space: nowrap;
     position: relative;
-    top: 5px;
-    left: 5px;
+/*     top: 5px;
+    left: 5px; */
     z-index: 9999;
   }
   /* モバイルメニュー画面 */
