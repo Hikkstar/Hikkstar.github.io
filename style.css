@@ -41,7 +41,7 @@ footer{
 .header{
   position: sticky;
   top:0;
-  height: 50px;
+  height: 100px;
   background: rgba(45,45,45, 0.3);
 }
 .wrapper{
@@ -237,6 +237,7 @@ form button img{
   }
   .header{
     background: rgba(45,45,45, 0.3);
+    height: 70px;
   }
   /* body{
     overflow-x: hidden !important;
