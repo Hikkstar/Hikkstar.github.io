@@ -258,14 +258,14 @@ form button img{
     float: left;
     position: relative;
     left: 5px;
-    bottom: 20px;
+    bottom: 25px;
     z-index: 9999;
   }
   .logo_name{
     white-space: nowrap;
     position: relative;
-/*     top: 5px;
-    left: 5px; */
+    bottom: 10px;
+    left: 5px;
     z-index: 9999;
   }
   /* モバイルメニュー画面 */
