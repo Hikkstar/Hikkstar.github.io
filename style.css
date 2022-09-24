@@ -237,7 +237,7 @@ form button img{
   }
   .header{
     background: rgba(45,45,45, 0.3);
-    height: 65px;
+    height: 70px;
   }
   /* body{
     overflow-x: hidden !important;
@@ -258,7 +258,7 @@ form button img{
     float: left;
     position: relative;
     left: 5px;
-    bottom: 15px;
+    bottom: 20px;
     z-index: 9999;
   }
   .logo_name{
